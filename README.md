@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Mariana 👋
 
-<!--
-**maribedaris/maribedaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de la Maestría en Ciencia de Datos en la Universidad Pontificia Bolivariana.
 
-Here are some ideas to get you started:
+💻 Actualmente estoy aprendiendo sobre Ciencia de Datos en Producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis intereses
+
+- 📊 Ciencia de Datos
+- 🤖 Machine Learning
+- 📝 Procesamiento de Lenguaje Natural (NLP)
+- 📈 Inteligencia de Negocios
+
+### Tecnologías
+
+- Python
+- SQL
+- Git y GitHub
+- Power BI
+- Machine Learning
+
+### Actualmente aprendiendo
+
+Estoy fortaleciendo mis conocimientos en desarrollo y puesta en producción de proyectos de Ciencia de Datos.
